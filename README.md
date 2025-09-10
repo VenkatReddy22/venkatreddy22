@@ -138,6 +138,34 @@ Aspiring Full-Stack Developer with robust expertise in both front-end and back-e
 
 </div>
 
+## 📚 Message Decoder Function
+
+This repository now includes a **Caesar Cipher Message Decoder** implementation:
+
+### Features
+- ✅ Handles positive and negative shift values
+- ✅ Preserves case sensitivity (uppercase/lowercase)
+- ✅ Maintains non-alphabetical characters (spaces, punctuation, etc.)
+- ✅ Implements alphabet wrapping (z+1 = a)
+- ✅ Comprehensive test suite with 4 validation cases
+
+### Usage
+```javascript
+const decode = require('./decode.js');
+
+// Examples:
+decode("Xlmw mw e wigvix qiwweci.", 4);  // Returns: "This is a secret message."
+decode("Byffi Qilfx!", 20);            // Returns: "Hello World!"
+decode("Zqd xnt njzx?", -1);           // Returns: "Are you okay?"
+decode("oannLxmnLjvy", 9);             // Returns: "freeCodeCamp"
+```
+
+### Running Tests
+```bash
+npm test
+# or
+node test.js
+```
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
