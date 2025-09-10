@@ -2,8 +2,6 @@
 
 # Hi, I'm Bajjuri Venkat Reddy 👋
 
-### 🚀 Aspiring Full-Stack Developer | 💻 MERN Stack Enthusiast | 🎓 Conestoga College Student
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/venkat-reddy-0228611a9)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Venkatreddybajjuri3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/VenkatReddy22)
