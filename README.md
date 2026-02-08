@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Aspiring Full-Stack Developer with robust expertise in both front-end and back-end technologies. I have hands-on experience building responsive, secure web applications using modern frameworks. I thrive in Agile environments and am passionate about delivering scalable and accessible solutions.
+Full-Stack Developer with robust expertise in both front-end and back-end technologies. I have hands-on experience building responsive, secure web applications using modern frameworks. I thrive in Agile environments and am passionate about delivering scalable and accessible solutions.
 
 - 🔭 I’m currently pursuing a Post Graduate Diploma in Web Development at Conestoga College, Canada.
 - 🌱 Always learning and interested in web security, scalable architectures, and user-centric design.
