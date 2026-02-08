@@ -19,7 +19,7 @@
 
 Full-Stack Developer with robust expertise in both front-end and back-end technologies. I have hands-on experience building responsive, secure web applications using modern frameworks. I thrive in Agile environments and am passionate about delivering scalable and accessible solutions.
 
-- 🔭 I’m currently pursuing a Post Graduate Diploma in Web Development at Conestoga College, Canada.
+- 🔭 Recent Grad - Post Graduate Diploma in Web Development at Conestoga College, Canada.
 - 🌱 Always learning and interested in web security, scalable architectures, and user-centric design.
 - 🌍 International experience: Collaborated in diverse teams across India and Canada.
 - 🎮 Gamer & movie buff in my spare time!
@@ -34,25 +34,6 @@ Full-Stack Developer with robust expertise in both front-end and back-end techno
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatReddy22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkatReddy22&theme=tokyonight" alt="VenkatReddy22" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkatReddy22&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=VenkatReddy22&theme=dark" alt="LeetCode Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://leetcode.card.workers.dev/VenkatReddy22?theme=dark&font=baloo&extension=null" alt="LeetCode Card"/>
-</div>
 
 ## 🛠️ Technical Skills
 
@@ -82,26 +63,6 @@ Full-Stack Developer with robust expertise in both front-end and back-end techno
 
 </div>
 
-## 🚀 Projects
-
-- **Responsive eCommerce Website**  
-  Built a visually appealing & fully responsive e-commerce site using React & CSS. Optimized for accessibility, increasing mobile engagement by 25%.  
-  [View on GitHub](https://github.com/VenkatReddy22)
-
-- **Database Management & Real-Time Booking System**  
-  Managed MySQL for an eCommerce platform and MongoDB for a driver’s license slot booking system. Enhanced transaction efficiency and ensured quick data retrieval.  
-  [View on GitHub](https://github.com/VenkatReddy22)
----
-
-## 🏅 Achievements & Highlights
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/VenkatReddy22?label=Followers&style=social)](https://github.com/VenkatReddy22)
-[![GitHub stars](https://img.shields.io/github/stars/VenkatReddy22?label=Stars&style=social)](https://github.com/VenkatReddy22)
-
-</div>
-
 ## 📜 Certifications
 
 <div align="center">
@@ -127,16 +88,6 @@ Full-Stack Developer with robust expertise in both front-end and back-end techno
 
 ## 💡 Soft Skills
 
-<div align="center">
-
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge)
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-4ECDC4?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Strong_Communication-45B7D1?style=for-the-badge)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-96CEB4?style=for-the-badge)
-
-</div>
-
----
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
