@@ -19,7 +19,7 @@
 
 Full-Stack Developer with robust expertise in both front-end and back-end technologies. I have hands-on experience building responsive, secure web applications using modern frameworks. I thrive in Agile environments and am passionate about delivering scalable and accessible solutions.
 
-- 🔭 Recent Grad - Post Graduate Diploma in Web Development at Conestoga College, Canada.
+
 - 🌱 Always learning and interested in web security, scalable architectures, and user-centric design.
 - 🌍 International experience: Collaborated in diverse teams across India and Canada.
 - 🎮 Gamer & movie buff in my spare time!
@@ -56,28 +56,11 @@ Full-Stack Developer with robust expertise in both front-end and back-end techno
 
 </div>
 
-## 📜 Certifications
 
-<div align="center">
-
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-
-</div>
-
-- 🏆 **Responsive Web Design** – freeCodeCamp
-- 💻 **Introduction to Web Development with HTML, CSS, JavaScript** – IBM (Coursera)
-- ⚛️ **Meta Front-End Developer Specialization** – Coursera
-- 🔧 **Version Control System** – Meta (Coursera)
 
 ## 🎓 Education
-
-- 🎓 **Post Graduate Diploma in Web Development**  
-  📍 Conestoga College, Kitchener, Canada (Jan 2024 – Apr 2025)
 - 🎓 **Bachelor of Technology in Computer Science and Engineering**  
-  📍 Vidya Jyothi Institute of Technology, Hyderabad, India (Graduated 2023)
+  📍 Vidya Jyothi Institute of Technology, Hyderabad, India 
 
 ## 💡 Soft Skills
 
